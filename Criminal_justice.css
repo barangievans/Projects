@@ -1,0 +1,27 @@
+body{
+    font-family: monospace;
+    background-color: purple;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 100px;
+    line-height: 1 ;
+    font-weight: 400;
+    text-decoration: underline;
+}
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+p{
+    font-size: 20px;
+}
+div{
+    width: 50%;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+span{
+    text-shadow: 10px -6.25px blue;
+}
